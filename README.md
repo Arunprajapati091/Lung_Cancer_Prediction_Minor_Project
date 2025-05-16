@@ -1,3 +1,3 @@
 # Lung_Cancer_Prediction_Minor_Project
 
-This project simply deals with the Lung Cancer Prediction where in I have utilised various ML Models to correctly predict the lung cance disease.
+The objective of this project is to predict whether a person is likely to have lung cancer or not based on various symptoms and risk factors (like smoking, yellow fingers, chronic disease, etc.) using supervised machine learning classification models
